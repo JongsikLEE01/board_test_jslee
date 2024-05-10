@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BoardTestJsleeApplication<board_test_jslee>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.jslee.board_test_jslee.BoardTestJsleeApplication",
+            "projectName": "board_test_jslee",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
